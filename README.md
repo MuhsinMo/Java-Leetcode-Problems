@@ -2,7 +2,6 @@
 
 The solutions are mostly Best-Case.
 
-## SubHeader
 
 
 
